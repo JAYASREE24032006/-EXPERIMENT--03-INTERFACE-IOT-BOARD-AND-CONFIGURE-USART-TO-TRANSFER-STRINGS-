@@ -47,7 +47,8 @@ configure in the usart 2 as asynchronous mode and set the baud rate as 115200 as
 
 ## Output screen shots of Serial port utility   :
  
- 
+ ![ex3](https://github.com/JAYASREE24032006/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/144360800/3bca93c2-ad42-47e0-a2f2-acce46d27f4e)
+
  
  
 ## Result :

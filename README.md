@@ -1,9 +1,9 @@
 
-###  DATE: 
+###  DATE: 24.2.2024
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: R.JAYASREE
+###  ROLL NO :212223040074
+###  DEPARTMENT: B.E COMPUTER SCIENCE
 
 # EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
